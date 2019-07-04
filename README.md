@@ -46,10 +46,10 @@ YOU can run easly by following above mention techniques, Suitable for both.
 Inisted of JUPYTER NOTEBOOK, You need Spyder by anconda for one time run.
 
 # RESULTS:
-
+```
 ***** 1 *****
  @highlight win sunday would perfect way former mcilroy prepare british open starts next week royal liverpool last two majors @highlight mcilroy shot course record royal aberdeen thursday actually second player better old mark swedens kristoffer broberg earlier fired
-***** 2 *****
+***** 2 ***** 
  @highlight anyone doubts potential influence movies public opinion need look two films causing uproar even opened nationwide present hot button issues manage fire people left right @highlight movie actually convince support torture movie really persuade fracking process used drill natural gas danger environment movie truly cause view certain minority groups negative light
 ***** 3 *****
  @highlight math may scary pi evidenced widespread revelry pi day one might even say gasp cool like pi days even house representatives supported designation march national pi day @highlight pi day began small gathering mostly museum staff public pi extravaganza featuring pi procession whose attendees get number line order pis digits get idea
@@ -67,3 +67,4 @@ Inisted of JUPYTER NOTEBOOK, You need Spyder by anconda for one time run.
  @highlight queens day never trouw newspaper said netherlands always proud nonsense royal family comes queen cycles bike also mixes people without obvious security measurements still possible royal family target attack @highlight man whose name released seriously injured crash thursday town apeldoorn miles east amsterdam police said died early friday police said
 ***** 10 *****
  @highlight late mao would stand tiananmen rostrum launch cultural revolution rallied hundreds thousands young chinese radical red guards lionized like demigod rebel justified proclaimed rebelled everything wreaked havoc everywhere ten years china condemned political turmoil economic malaise perhaps factor kept country total collapse peoples incomparable resilience ability chi ku eat bitterness bear hardship @highlight tiananmen rostrum chairman mao formally proclaimed founding peoples republic chinese people stood declared shrill hunanese accent decades whole nation followed mao loyally emphasized political mobilization common man especially peasantry maos ideology chinese people found hope new china wherein citizens would always bowl rice eat clothes wear
+```
