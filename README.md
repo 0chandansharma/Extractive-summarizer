@@ -68,6 +68,7 @@ nx_graph = nx.from_numpy_array(sim_mat)
 scores = nx.pagerank(nx_graph)
 ```
 ## Summary Extraction.
+ This is final step where we are getting @highlights
  
 # RESULTS
 ```
