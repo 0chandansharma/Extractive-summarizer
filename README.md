@@ -60,6 +60,13 @@ stop_words = stopwords.words('english')
 I use the cosine similarity approach for this challenge.
 ## Applying PageRank Algorithm
  I applied the PageRank algorithm to arrive at the sentence rankings.
+
+ ```
+ import networkx as nx
+
+nx_graph = nx.from_numpy_array(sim_mat)
+scores = nx.pagerank(nx_graph)
+```
 ## Summary Extraction.
  
 # RESULTS
