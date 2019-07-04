@@ -5,13 +5,13 @@
 Need to install JupyterNotebook From Anaconda.
 
 # Imports
-
+```
 conda install OS
 conda install string
 conda install NLTK
 conda install sklearn
 conda install networks
-
+```
 ## install glove Predefine word Embeding library.
     f = open(r'Location', encoding='utf-8')
     Location= put the location address for the glove:
@@ -46,20 +46,20 @@ YOU can run easly by following above mention techniques, Suitable for both.
 Inisted of JUPYTER NOTEBOOK, You need Spyder by anconda for one time run.
 # PROCEDURE
 I use Page Ranking algorithm, is an extractive and unsupervised text summarization technique
-###### Split story in to Sentences.
-###### extract the words embeddings or word vectors USING GLOVE pretrain model
-###### Text Preprocessing
+## Split story in to Sentences.
+## extract the words embeddings or word vectors USING GLOVE pretrain model
+## Text Preprocessing
 remove punctuations, numbers and special characters and make alphabets lowercase
-###### Get rid of the stopwords
+## Get rid of the stopwords
 ```from nltk.corpus import stopwords
 stop_words = stopwords.words('english')
 ```
-###### vector Representation of Sentences With help of golve word vector
-###### Similarity Matrix
+## vector Representation of Sentences With help of golve word vector
+## Similarity Matrix
 I use the cosine similarity approach for this challenge.
-###### Applying PageRank Algorithm
+## Applying PageRank Algorithm
  I applied the PageRank algorithm to arrive at the sentence rankings.
-###### Summary Extraction.
+## Summary Extraction.
  
 # RESULTS
 ```
