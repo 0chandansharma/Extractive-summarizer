@@ -50,10 +50,12 @@ I use Page Ranking algorithm, is an extractive and unsupervised text summarizati
 ## Text Preprocessing
 remove punctuations, numbers and special characters and make alphabets lowercase
 ## Get rid of the stopwords
-```from nltk.corpus import stopwords
+```
+from nltk.corpus import stopwords
 stop_words = stopwords.words('english')
 ```
-## vector Representation of Sentences With help of golve word vector
+## Vector representation of Sentences With help of golve word vector
+
 ## Similarity Matrix
 I use the cosine similarity approach for this challenge.
 ## Applying PageRank Algorithm
