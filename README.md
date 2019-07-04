@@ -47,7 +47,6 @@ Inisted of JUPYTER NOTEBOOK, You need Spyder by anconda for one time run.
 # PROCEDURE
 I use Page Ranking algorithm, is an extractive and unsupervised text summarization technique
 ## Split story in to Sentences.
-## extract the words embeddings or word vectors USING GLOVE pretrain model
 ## Text Preprocessing
 remove punctuations, numbers and special characters and make alphabets lowercase
 ## Get rid of the stopwords
