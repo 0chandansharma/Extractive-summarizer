@@ -2,12 +2,9 @@
 """
 Created on Sun Jun 30 17:49:41 2019
 
-@author: Sharmas
+@author: Chandan Sharma
 """
-#named entity recognizing
-#sentence length
-#sentence position
-#sentence similarity
+
 
 from os import listdir
 import string
