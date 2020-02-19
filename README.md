@@ -1,4 +1,4 @@
-# Extractive-summarizer
+# Extractive-summarizer, PAGE RANKING ALGORITHM
 
 
 # To run The .ipynb file
